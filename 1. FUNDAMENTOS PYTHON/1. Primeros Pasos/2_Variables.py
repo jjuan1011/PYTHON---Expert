@@ -14,3 +14,10 @@ print(my_age)
 
 my_name = "geiny"
 print("my_name")
+
+
+# ACÁ VAMOS A HACER UNOS CAMBIOS PARA PRÁCTICAR EN EL GIT, entonces creamos varias ramas en las que vamos a ir trabajando en varias secciones del proyecto, entre más profunda la rama, m{as profundo trabajará en el proyecto, es decir 
+'''
+EJEMPLO
+La rama 1_primeros_pasos Tendrá todos los cambios realizados en la carpeta primeros pasos, tendrá todas las clases y archivos vistos en dichas clases, y así cada rama tendrá una sección del curso de python y sus respectivos arhivos, al final le haremos un merge a todo y deberá aparecer un solo proyecto unido como aparece en la carpeta python de nuestro disco duro, ese merge contendrá todo el curso de python cada sección cada carpeta cada archivo etc.
+'''
